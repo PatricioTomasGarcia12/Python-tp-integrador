@@ -7,7 +7,7 @@ Separador de campos utilizado en los archivos: ,
 Codificación de caracteres (encoding): UTF-8
 Tipo de licencia: Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License
 Frecuencia de actualización: No hay información suficiente 
-Para cada archivo del dataset explicar su propósito:
+Propósito del dataset: Este dataset abarca los sonidos de la colección de sonidos de aves de Xeno-canto.
 
 Registros: 
     Occurrence ID: Identificador único global, 000866d2-c177-4648-a200-ead4007051b9
