@@ -1,13 +1,13 @@
-Nombre del dataset: Xeno-canto - Bird sounds from around the world
-Institución proveedora: Xeno-canto Foundation for Nature Sounds
-Cantidad de registros: 999540
-Cobertura geográfica:  oste -180, este 180, norte 90,  sur -90
-Cobertura temporal: No hay información suficiente 
-Separador de campos utilizado en los archivos: ,
-Codificación de caracteres (encoding): UTF-8
-Tipo de licencia: Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License
-Frecuencia de actualización: No hay información suficiente 
-Propósito del dataset: Este dataset abarca los sonidos de la colección de sonidos de aves de Xeno-canto.
+* Nombre del dataset: Xeno-canto - Bird sounds from around the world
+* Institución proveedora: Xeno-canto Foundation for Nature Sounds
+* Cantidad de registros: 999540
+* Cobertura geográfica:  oste -180, este 180, norte 90,  sur -90
+* Cobertura temporal: No hay información suficiente 
+* Separador de campos utilizado en los archivos: ,
+* Codificación de caracteres (encoding): UTF-8
+* Tipo de licencia: Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License
+* Frecuencia de actualización: No hay información suficiente 
+* Propósito del dataset: Este dataset abarca los sonidos de la colección de sonidos de aves de Xeno-canto.
 
 Registros: 
     Occurrence ID: Identificador único global, 000866d2-c177-4648-a200-ead4007051b9
@@ -81,5 +81,3 @@ Registros:
     Rights Holder: Persona u organización que posee o gestiona los derechos sobre el recurso, Xeno-canto Foundation for Nature Sounds
 
     License: Un documento legal que otorga permiso oficial para hacer algo con el recurso, http://creativecommons.org/licenses/by-nc/4.0/legalcode
-
-
